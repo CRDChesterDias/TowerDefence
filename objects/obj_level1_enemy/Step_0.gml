@@ -1,5 +1,6 @@
 if(instance_place(x, y, obj_level1_kingdom))
 {
+	obj_level1_kingdom.kingdom_hp -= 10;
 	instance_destroy();
 }
 
