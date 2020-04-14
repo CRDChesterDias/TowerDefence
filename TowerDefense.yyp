@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "17bee825-22ae-470b-9efa-1c32bb82ef8b",
+            "Value": {
+                "id": "259163d0-9680-48a3-bc00-f6f1a1273af5",
+                "resourcePath": "views\\17bee825-22ae-470b-9efa-1c32bb82ef8b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1979b18f-b92f-4668-a429-eec370feb584",
             "Value": {
                 "id": "5c929836-3a37-463e-9ae5-2b6d17f4a260",
@@ -107,6 +115,14 @@
             "Value": {
                 "id": "61c750dd-ecdb-4836-abad-e72987663642",
                 "resourcePath": "sprites\/spr_tileset_mountainLandscape\/spr_tileset_mountainLandscape.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "319dfbe5-2ad1-4dbc-a907-7ea535789dde",
+            "Value": {
+                "id": "f253b6a7-d5cc-454f-8887-8cd0e24f205d",
+                "resourcePath": "sprites\\spr_crystal\\spr_crystal.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -239,6 +255,22 @@
             }
         },
         {
+            "Key": "67f2e2b3-5e48-43aa-b0b4-241f1f2ef81a",
+            "Value": {
+                "id": "5369f817-021f-4e55-a84d-91dc0886e684",
+                "resourcePath": "sprites\\spr_level1_enemy_entrance_cave\\spr_level1_enemy_entrance_cave.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6990c0a2-1729-48d6-8199-1265c6c5cfd3",
+            "Value": {
+                "id": "7c910602-95ef-49da-bfc3-9fcfb77f5931",
+                "resourcePath": "objects\\obj_level1_enemy_exit_hole\\obj_level1_enemy_exit_hole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6dd72636-4685-46e3-9658-bff30b620b02",
             "Value": {
                 "id": "847d9ec3-b12e-45fa-90a3-eedc8d3a20a8",
@@ -332,6 +364,14 @@
                 "id": "42324fff-5845-4a81-a0ee-64ae2dececb6",
                 "resourcePath": "sprites\/spr_tileset_wood\/spr_tileset_wood.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "950a96a7-ef1f-43c8-a815-597729e2f1b9",
+            "Value": {
+                "id": "35dd154f-c1c0-4a00-8a5b-ce738d121405",
+                "resourcePath": "objects\\obj_level1_enemy_entrance_cave\\obj_level1_enemy_entrance_cave.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -572,6 +612,14 @@
                 "id": "50c4696a-524e-4829-a2ba-1061205c33ce",
                 "resourcePath": "views\/fd0ce9be-efa2-49fe-b79f-2463016aaeb6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fe4a0974-fee9-41d7-96c1-e88aa031b558",
+            "Value": {
+                "id": "ca99506e-d9c1-44bc-a9a8-5e719c9c4e54",
+                "resourcePath": "sprites\\spr_level1_enemy_exit_hole\\spr_level1_enemy_exit_hole.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
