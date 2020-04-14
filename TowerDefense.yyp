@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "86c00503-941a-4199-9686-aef3c9f67331",
+            "Value": {
+                "id": "71cbe50d-2504-4fda-a4a5-7b26fc5a55f6",
+                "resourcePath": "sprites\\spr_level1_goldfish\\spr_level1_goldfish.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8af6c810-0c3d-49af-a7c2-ec131cc6947c",
             "Value": {
                 "id": "3b22bd21-93fd-4456-8b31-e50479bba8b2",
@@ -380,6 +388,14 @@
                 "id": "d9212c34-3196-43a1-a95a-80c3117ff1fb",
                 "resourcePath": "views\/9b483e7c-6da5-436d-bb1b-a4358f824a56.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9d556ccd-7092-484b-9675-87ac8b436d4c",
+            "Value": {
+                "id": "b646ba5e-6f41-4b0f-aeb8-71edd71ed4f0",
+                "resourcePath": "sprites\\spr_level1_bomb\\spr_level1_bomb.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
