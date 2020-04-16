@@ -8,11 +8,13 @@ obj_selected_weapon.sprite_index=object_get_sprite(self);
 
 switch(current_weapon){
 case 100001:
-obj_selected_weapon.sprite_index = spr_elemental_shooter;break;
-
-case 100003:
-obj_selected_weapon.sprite_index = spr_elemental_laser;break;
+obj_selected_weapon.sprite_index = spr_elemental_shooter;
+break;
+case 100002:
+obj_selected_weapon.sprite_index = spr_elemental_tower;
+break;
 case 100004:
-obj_selected_weapon.sprite_index = spr_elemental_tower;break;
+obj_selected_weapon.sprite_index = spr_elemental_laser;
+break;
 }
 
