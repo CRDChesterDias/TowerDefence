@@ -298,7 +298,7 @@
             "Key": "78688500-09f4-4a8c-8be5-98024807f063",
             "Value": {
                 "id": "f47a653d-c85c-4559-9f09-876e88a590a2",
-                "resourcePath": "sprites\/spr_enemy_dummy\/spr_enemy_dummy.yy",
+                "resourcePath": "sprites\\spr_enemy_enemy2\\spr_enemy_enemy2.yy",
                 "resourceType": "GMSprite"
             }
         },
