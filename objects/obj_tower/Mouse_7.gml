@@ -12,7 +12,9 @@ if(obj_selected_weapon.selected_weapon != 0)
 			break;
 		case 3:
 			instance_create_layer(x, y, "Instances", obj_stone3);
+			instance_create_layer(x+1, y+1, "Instances", obj_laser_controller);
 			break;
 	}	
 	obj_selected_weapon.selected_weapon = 0;
+	obj_selected_weapon.sprite_index = -1;
 }
