@@ -2,7 +2,7 @@
     "id": "814077ff-322f-4432-88f3-8fe8e663af0e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_level1_stone1",
+    "name": "obj_stone1",
     "eventList": [
         
     ],
