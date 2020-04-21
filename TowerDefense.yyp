@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "4c1fb8d2-0b8d-4897-be99-357ed218d4c0",
+            "Value": {
+                "id": "837f9d97-d5df-4f06-a0ea-59db2005a51b",
+                "resourcePath": "paths\/pt_level2_path4\/pt_level2_path4.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "4d954c2b-1d37-4512-be64-b333c4a5a410",
             "Value": {
                 "id": "aa87c68d-7899-4f62-a04c-3dc033d25990",
@@ -252,6 +260,14 @@
                 "id": "de2cb569-d632-4549-b568-f2089121d75a",
                 "resourcePath": "rooms\/rm_level1_rm1\/rm_level1_rm1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "563cb022-8251-4a92-8912-5b2126eeab00",
+            "Value": {
+                "id": "bd51baf0-39b1-47cd-a373-2ebf8acca3ca",
+                "resourcePath": "paths\/pt_level2_path2\/pt_level2_path2.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -300,6 +316,14 @@
                 "id": "847d9ec3-b12e-45fa-90a3-eedc8d3a20a8",
                 "resourcePath": "objects\/obj_level1_bullet1\/obj_level1_bullet1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6f57f6b2-8f8e-44e5-96a4-c6911c237473",
+            "Value": {
+                "id": "c480c8f6-1574-4192-93ce-8a1e96934438",
+                "resourcePath": "paths\/pt_level2_path1\/pt_level2_path1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -495,6 +519,14 @@
             }
         },
         {
+            "Key": "b1a6d614-2adb-4464-b743-bdfe3b4136ca",
+            "Value": {
+                "id": "4209c70c-f30d-4662-8506-8886d5417b91",
+                "resourcePath": "paths\/pt_level2_path3\/pt_level2_path3.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "b1b363a6-e057-49d0-8f2a-94b26b135bf8",
             "Value": {
                 "id": "fedfc39f-2532-467f-960d-bf6bd7b5ede5",
@@ -515,6 +547,14 @@
             "Value": {
                 "id": "2e567e7f-e81c-4a4a-a9f9-810ab77483be",
                 "resourcePath": "objects\/obj_tower\/obj_tower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b506c0f9-5e11-4029-8b48-80e6fc6471c5",
+            "Value": {
+                "id": "e1d470a3-e7b9-4486-960b-0f39788018ef",
+                "resourcePath": "objects\/obj_level2_enemy2\/obj_level2_enemy2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -588,6 +628,14 @@
                 "id": "cfb661ce-0072-4a89-81c2-93a17a96dca6",
                 "resourcePath": "views\/c9183983-e936-43c8-83d1-6c44a7e04c61.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c947a16d-84ea-4975-a10c-427cf6a17119",
+            "Value": {
+                "id": "57eb12c7-3fa6-4258-bdca-cc543d326c55",
+                "resourcePath": "objects\/obj_level2_spawner\/obj_level2_spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {

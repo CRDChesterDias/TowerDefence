@@ -1,38 +1,28 @@
 {
-    "id": "6dd72636-4685-46e3-9658-bff30b620b02",
+    "id": "b506c0f9-5e11-4029-8b48-80e6fc6471c5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_level1_bullet1",
+    "name": "obj_level2_enemy2",
     "eventList": [
         {
-            "id": "98771b54-a1b4-4998-9a0c-e9e3f7accb76",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "6dd72636-4685-46e3-9658-bff30b620b02"
-        },
-        {
-            "id": "79d5aa7e-1849-4e6d-94e9-76cfa8c9eea6",
+            "id": "a9f664da-0c49-458e-a9a3-5f613983c04e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "c4fef748-9367-4d3e-93cf-62693208df52",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "6dd72636-4685-46e3-9658-bff30b620b02"
-        },
-        {
-            "id": "d688b71e-1879-45cb-96f7-7f2c8824004a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 7,
-            "m_owner": "6dd72636-4685-46e3-9658-bff30b620b02"
+            "eventtype": 0,
+            "m_owner": "b506c0f9-5e11-4029-8b48-80e6fc6471c5"
+        },
+        {
+            "id": "ea8f62d4-e87f-43f1-b409-ea1d6f90e5d9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "b506c0f9-5e11-4029-8b48-80e6fc6471c5"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "74b65621-6bc7-4b9b-9517-8331e8dba3ff",
+            "id": "dc36df0d-22e5-4c56-88c0-566a94f402c3",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -62,12 +52,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "5",
-            "varName": "speed",
+            "value": "2",
+            "varName": "Speed_enemy",
             "varType": 0
         }
     ],
     "solid": false,
-    "spriteId": "c5a9c523-988b-4db4-8083-0153e9983084",
+    "spriteId": "78688500-09f4-4a8c-8be5-98024807f063",
     "visible": true
 }
