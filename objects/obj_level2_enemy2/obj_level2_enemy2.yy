@@ -23,6 +23,26 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "b506c0f9-5e11-4029-8b48-80e6fc6471c5"
+        },
+        {
+            "id": "ae3971ab-fb9a-4509-a34b-ebceb8c04798",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "b506c0f9-5e11-4029-8b48-80e6fc6471c5"
+        },
+        {
+            "id": "87b8a4c6-ac93-4b60-a2d5-b4ecae809d08",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "6dd72636-4685-46e3-9658-bff30b620b02",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "b506c0f9-5e11-4029-8b48-80e6fc6471c5"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -52,8 +72,64 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "2",
+            "value": "1",
             "varName": "Speed_enemy",
+            "varType": 0
+        },
+        {
+            "id": "4e9a47f0-f5c4-48f5-9cd4-88f7a21112d3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "water_reduce_speed",
+            "varType": 0
+        },
+        {
+            "id": "34de58fd-e446-42d1-b2e7-d42980bcb924",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "enemey_health",
+            "varType": 0
+        },
+        {
+            "id": "14635f11-c182-4b64-a42d-28e3dd7070e3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "health_reduce",
+            "varType": 0
+        },
+        {
+            "id": "add761a0-058b-4290-b228-3d030f9807d0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "max_health",
             "varType": 0
         }
     ],

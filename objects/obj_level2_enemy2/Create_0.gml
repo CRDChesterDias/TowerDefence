@@ -11,3 +11,5 @@ if(global.numberOfEnemyWaveOne%4 == 0){
 	path_start(pt_level2_path4, Speed_enemy, path_action_stop, true)
 }
 
+enemey_health=max_health
+

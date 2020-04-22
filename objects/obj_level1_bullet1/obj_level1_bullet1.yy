@@ -8,7 +8,7 @@
             "id": "98771b54-a1b4-4998-9a0c-e9e3f7accb76",
             "modelName": "GMEvent",
             "mvc": "1.0",
-            "IsDnD": true,
+            "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
@@ -62,8 +62,8 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "5",
-            "varName": "speed",
+            "value": "10",
+            "varName": "speed_local",
             "varType": 0
         }
     ],
