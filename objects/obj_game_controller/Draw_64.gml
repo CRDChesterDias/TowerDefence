@@ -1,52 +1,50 @@
 /// @DnDAction : YoYo Games.Drawing.Draw_Gradient_Rect
 /// @DnDVersion : 1
 /// @DnDHash : 276B2E62
-/// @DnDArgument : "x1" "20"
-/// @DnDArgument : "y1" "20"
-/// @DnDArgument : "x2" "1000"
-/// @DnDArgument : "y2" "60"
-/// @DnDArgument : "col1" "$FFB26F40"
-/// @DnDArgument : "col2" "$FFB26F40"
-/// @DnDArgument : "col3" "$FFB26F40"
-/// @DnDArgument : "col4" "$FFB26F40"
+/// @DnDArgument : "x2" "1200"
+/// @DnDArgument : "y2" "40"
+/// @DnDArgument : "col1" "$FFE934FF"
+/// @DnDArgument : "col2" "$FFBA29CC"
+/// @DnDArgument : "col3" "$FF74197F"
+/// @DnDArgument : "col4" "$FF450F4C"
 /// @DnDArgument : "fill" "1"
-draw_rectangle_colour(20, 20, 1000, 60, $FFB26F40 & $FFFFFF, $FFB26F40 & $FFFFFF, $FFB26F40 & $FFFFFF, $FFB26F40 & $FFFFFF, 0);
+draw_rectangle_colour(0, 0, 1200, 40, $FFE934FF & $FFFFFF, $FFBA29CC & $FFFFFF, $FF450F4C & $FFFFFF, $FF74197F & $FFFFFF, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
 /// @DnDVersion : 1
 /// @DnDHash : 3AED98E1
 /// @DnDArgument : "x" "400"
-/// @DnDArgument : "y" "30"
+/// @DnDArgument : "y" "10"
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-draw_text(400, 30, string("Score: ") + string(__dnd_score));
+draw_text(400, 10, string("Score: ") + string(__dnd_score));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 4188F6FC
 /// @DnDArgument : "x" "60"
-/// @DnDArgument : "y" "30"
+/// @DnDArgument : "y" "10"
 /// @DnDArgument : "caption" ""Crystals: ""
 /// @DnDArgument : "var" "global.crystals"
-draw_text(60, 30, string("Crystals: ") + string(global.crystals));
+draw_text(60, 10, string("Crystals: ") + string(global.crystals));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 3A650597
-/// @DnDArgument : "x" "140"
-/// @DnDArgument : "y" "40"
+/// @DnDArgument : "x" "200"
+/// @DnDArgument : "y" "20"
 /// @DnDArgument : "sprite" "spr_crystal"
-/// @DnDArgument : "image" "4"
+/// @DnDArgument : "image" "-1"
 /// @DnDSaveInfo : "sprite" "319dfbe5-2ad1-4dbc-a907-7ea535789dde"
-draw_sprite(spr_crystal, 4, 140, 40);
+draw_sprite(spr_crystal, -1, 200, 20);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 3400D48F
 /// @DnDArgument : "x" "700"
-/// @DnDArgument : "y" "30"
+/// @DnDArgument : "y" "10"
 /// @DnDArgument : "caption" ""Basehealth: ""
 /// @DnDArgument : "var" "global.basehealth"
-draw_text(700, 30, string("Basehealth: ") + string(global.basehealth));
+draw_text(700, 10, string("Basehealth: ") + string(global.basehealth));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Healthbar
 /// @DnDVersion : 1
