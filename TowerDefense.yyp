@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "1c8301b6-74f2-4bf5-a66e-f1b0c7d1e0bc",
+            "Value": {
+                "id": "d6628091-7b2a-46d4-b762-d768db8d84fd",
+                "resourcePath": "objects\\obj_dead_boss_enemy\\obj_dead_boss_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "20ecf4a6-3d8f-4978-8094-77f34c112af8",
             "Value": {
                 "id": "21aefbc3-298d-4c6f-a39e-7996890cc84f",
@@ -491,6 +499,14 @@
             "Value": {
                 "id": "71cbe50d-2504-4fda-a4a5-7b26fc5a55f6",
                 "resourcePath": "sprites\/spr_level1_goldfish\/spr_level1_goldfish.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8aee05dd-a206-4e5b-9a36-caeb7455373a",
+            "Value": {
+                "id": "be29c783-b80a-48b7-9528-9bcc7d564be3",
+                "resourcePath": "sprites\\spr_dead_boss_enemy\\spr_dead_boss_enemy.yy",
                 "resourceType": "GMSprite"
             }
         },
