@@ -23,10 +23,11 @@ draw_text(400, 30, string("Score: ") + string(__dnd_score));
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 4188F6FC
-/// @DnDArgument : "x" "50"
+/// @DnDArgument : "x" "60"
 /// @DnDArgument : "y" "30"
 /// @DnDArgument : "caption" ""Crystals: ""
-draw_text(50, 30, string("Crystals: ") + "");
+/// @DnDArgument : "var" "global.crystals"
+draw_text(60, 30, string("Crystals: ") + string(global.crystals));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprite
 /// @DnDVersion : 1

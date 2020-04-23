@@ -50,8 +50,16 @@
             "Key": "070b81a9-1beb-4a18-9b07-e84e804f39c3",
             "Value": {
                 "id": "f36b7650-37be-4a15-91ec-941828367d3c",
-                "resourcePath": "views\\070b81a9-1beb-4a18-9b07-e84e804f39c3.yy",
+                "resourcePath": "views\/070b81a9-1beb-4a18-9b07-e84e804f39c3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0a966769-3c55-4d68-bef5-7b55133bafbd",
+            "Value": {
+                "id": "949229e1-0848-463c-abbc-d70d8caca66a",
+                "resourcePath": "sprites\/spr_elemental_shooter_grey\/spr_elemental_shooter_grey.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -75,6 +83,14 @@
             "Value": {
                 "id": "3e468a6c-85ef-4a83-95f1-f917d5cf9533",
                 "resourcePath": "views\/12f1e453-6374-4e7a-9273-45900c472e9c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "15376bf0-61e7-43e3-9d6a-e2b938b1b6d8",
+            "Value": {
+                "id": "742fc52b-7a23-4801-bd50-35c9e048027a",
+                "resourcePath": "views\/15376bf0-61e7-43e3-9d6a-e2b938b1b6d8.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -139,6 +155,14 @@
             "Value": {
                 "id": "f253b6a7-d5cc-454f-8887-8cd0e24f205d",
                 "resourcePath": "sprites\/spr_crystal\/spr_crystal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "32a265e2-21f0-4429-81b4-440dcc2155ab",
+            "Value": {
+                "id": "6dce35bb-70e3-42d9-bce9-650fe70ff670",
+                "resourcePath": "sprites\/spr_elemental_water_grey\/spr_elemental_water_grey.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -247,6 +271,14 @@
             }
         },
         {
+            "Key": "4f3fa0d3-b423-4249-9874-45cfa569f65f",
+            "Value": {
+                "id": "31a5003e-027d-4f99-942a-46a5ab7bbb93",
+                "resourcePath": "sprites\/spr_elemental_laser_grey\/spr_elemental_laser_grey.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "50617f72-4008-4269-812f-19ebb63f0ee2",
             "Value": {
                 "id": "0fc0f7b3-c374-4e80-bdbf-4785693a7a19",
@@ -276,6 +308,14 @@
                 "id": "bd51baf0-39b1-47cd-a373-2ebf8acca3ca",
                 "resourcePath": "paths\/pt_level2_path2\/pt_level2_path2.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "57fa712f-75f8-4057-93b7-43ea560dbd6a",
+            "Value": {
+                "id": "515cf399-84b5-4c58-8fa0-ebd8ffe4a93e",
+                "resourcePath": "objects\/obj_crystal_generator\/obj_crystal_generator.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -444,6 +484,14 @@
                 "id": "35dd154f-c1c0-4a00-8a5b-ce738d121405",
                 "resourcePath": "objects\/obj_level1_enemy_entrance_cave\/obj_level1_enemy_entrance_cave.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "96212ede-529c-41ae-bb84-334085efc608",
+            "Value": {
+                "id": "dc93c40d-e639-40c9-9fba-4d4c63faee09",
+                "resourcePath": "shaders\/Shader_Greyscale\/Shader_Greyscale.yy",
+                "resourceType": "GMShader"
             }
         },
         {
@@ -682,7 +730,7 @@
             "Key": "dce171cf-095c-4f9c-8224-fdb87ccb61fb",
             "Value": {
                 "id": "f426f25d-f036-4315-81d6-285679387488",
-                "resourcePath": "objects\\obj_game_controller\\obj_game_controller.yy",
+                "resourcePath": "objects\/obj_game_controller\/obj_game_controller.yy",
                 "resourceType": "GMObject"
             }
         },
