@@ -7,7 +7,7 @@ if(instance_exists(obj_level1_enemy1))
 	
 if(instance_exists(obj_level2_enemy2))
 {
-	inst = instance_nearest(x, y, obj_level1_enemy1);
+	inst = instance_nearest(x, y, obj_level2_enemy2);
 	direction = point_direction(x, y, inst.x, inst.y);
 }
 
