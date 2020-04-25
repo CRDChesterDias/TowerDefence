@@ -47,6 +47,15 @@ draw_sprite(spr_crystal, -1, 200, 20);
 /// @DnDArgument : "var" "global.basehealth"
 draw_text(700, 10, string("Basehealth: ") + string(global.basehealth));
 
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDVersion : 1
+/// @DnDHash : 11F1288A
+/// @DnDArgument : "x" "900"
+/// @DnDArgument : "y" "10"
+/// @DnDArgument : "caption" ""Wave: ""
+/// @DnDArgument : "var" "global.current_wave"
+draw_text(900, 10, string("Wave: ") + string(global.current_wave));
+
 /// @DnDAction : YoYo Games.Drawing.Draw_Healthbar
 /// @DnDVersion : 1
 /// @DnDHash : 4561DBFE

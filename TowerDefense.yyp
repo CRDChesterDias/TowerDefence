@@ -727,14 +727,6 @@
             }
         },
         {
-            "Key": "c4fef748-9367-4d3e-93cf-62693208df52",
-            "Value": {
-                "id": "f36cdeee-e6ec-452b-905e-b8771f063c74",
-                "resourcePath": "objects\/obj_level1_enemy\/obj_level1_enemy.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "c5a9c523-988b-4db4-8083-0153e9983084",
             "Value": {
                 "id": "54a39aa6-4544-4fc6-9aa7-60e3281335bc",
@@ -780,6 +772,14 @@
                 "id": "d3739aeb-5495-4f3a-874e-c16f7380cdb3",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd62a343-e9fd-4e6a-a4bf-38bde4ed7900",
+            "Value": {
+                "id": "a72c4a7a-dd39-4bea-bb92-50afdf8b43e8",
+                "resourcePath": "scripts\\scr_level1_enemy_create\\scr_level1_enemy_create.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -836,6 +836,14 @@
                 "id": "85697f58-52ec-465b-b941-30497ffc9147",
                 "resourcePath": "sprites\/spr_elemental_laser\/spr_elemental_laser.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ec62d250-a411-4daf-a783-30f187408f5d",
+            "Value": {
+                "id": "2e3f8557-a5e1-41e6-8972-6d63bd942eac",
+                "resourcePath": "paths\\pt_level1_path1\\pt_level1_path1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -904,7 +912,7 @@
         }
     ],
     "script_order": [
-        
+        "cd62a343-e9fd-4e6a-a4bf-38bde4ed7900"
     ],
     "tutorial": ""
 }

@@ -15,16 +15,6 @@
             "m_owner": "6dd72636-4685-46e3-9658-bff30b620b02"
         },
         {
-            "id": "79d5aa7e-1849-4e6d-94e9-76cfa8c9eea6",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "c4fef748-9367-4d3e-93cf-62693208df52",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "6dd72636-4685-46e3-9658-bff30b620b02"
-        },
-        {
             "id": "d688b71e-1879-45cb-96f7-7f2c8824004a",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -32,6 +22,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 7,
+            "m_owner": "6dd72636-4685-46e3-9658-bff30b620b02"
+        },
+        {
+            "id": "24befbe1-90db-448e-9293-9d8501bd4cec",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "ed4d62db-4243-4b65-9896-0c352967cd53",
+            "enumb": 0,
+            "eventtype": 4,
             "m_owner": "6dd72636-4685-46e3-9658-bff30b620b02"
         }
     ],
@@ -64,6 +64,20 @@
             "resourceFilter": 1023,
             "value": "10",
             "varName": "speed_local",
+            "varType": 0
+        },
+        {
+            "id": "32831503-291f-4f3a-9394-abde5d77e18c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "bullet_hp",
             "varType": 0
         }
     ],
