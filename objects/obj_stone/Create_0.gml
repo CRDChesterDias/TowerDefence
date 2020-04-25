@@ -1,8 +1,5 @@
-var l58C93524_0 = false;
-var lvl_2 = false;
-l58C93524_0 = instance_exists(obj_level1_enemy);
-lvl_2 = instance_exists(obj_level2_enemy2);
-if(l58C93524_0 || lvl_2)
+
+if(instance_exists(obj_level2_enemy2) || instance_exists(obj_level1_enemy))
 {
 	if(distance_to_object(obj_level1_enemy1) <= range)
 	{

@@ -10,13 +10,14 @@
 /// @DnDArgument : "fill" "1"
 draw_rectangle_colour(0, 0, 1200, 40, $FFE934FF & $FFFFFF, $FFBA29CC & $FFFFFF, $FF450F4C & $FFFFFF, $FF74197F & $FFFFFF, 0);
 
-/// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
-/// @DnDHash : 3AED98E1
+/// @DnDHash : 3388572A
 /// @DnDArgument : "x" "400"
 /// @DnDArgument : "y" "10"
-if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-draw_text(400, 10, string("Score: ") + string(__dnd_score));
+/// @DnDArgument : "caption" ""Score: ""
+/// @DnDArgument : "var" "global.scorePoints"
+draw_text(400, 10, string("Score: ") + string(global.scorePoints));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1

@@ -12,7 +12,10 @@ if(distance_to_object(inst)<100){
 			inst.enemy_hp-= 2;
 
 		if(inst.enemy_hp <= 0)
+		{
 			with(inst) instance_destroy();
+			global.scorePoints = global.scorePoints + 1;
+		}
   }
 else{
 	xend = x;
