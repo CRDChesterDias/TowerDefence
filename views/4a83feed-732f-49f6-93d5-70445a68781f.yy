@@ -12,7 +12,10 @@
         "94d6d7a7-0865-4eb9-9c85-b1502cc6e9ab",
         "af9e4d9d-8d5b-44c8-878f-0d033b95bcda",
         "10fe01ea-2705-423e-9d59-95234b2a4e18",
-        "1c8301b6-74f2-4bf5-a66e-f1b0c7d1e0bc"
+        "1c8301b6-74f2-4bf5-a66e-f1b0c7d1e0bc",
+        "32106bff-43e1-496b-bdec-ff831f9906ce",
+        "5b875b0c-69fc-4d6d-bccd-fba71748edbb",
+        "67b8c267-26a5-4d6d-a907-4005dbab5f94"
     ],
     "filterType": "GMObject",
     "folderName": "obj_enemies",
