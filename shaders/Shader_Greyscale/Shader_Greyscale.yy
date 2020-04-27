@@ -3,5 +3,5 @@
     "modelName": "GMShader",
     "mvc": "1.0",
     "name": "Shader_Greyscale",
-    "type": 2
+    "type": 1
 }

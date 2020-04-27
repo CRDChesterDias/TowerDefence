@@ -9,7 +9,7 @@ if(distance_to_object(inst)<100){
 		length = i;	
 		}
 	    if(inst.enemy_hp > 0)
-			inst.enemy_hp-= 2;
+			inst.enemy_hp-= 0.1;
 
 		if(inst.enemy_hp <= 0)
 		{
