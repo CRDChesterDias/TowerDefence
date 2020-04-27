@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 2,
             "m_owner": "c947a16d-84ea-4975-a10c-427cf6a17119"
+        },
+        {
+            "id": "62fc0a36-c169-428b-af9b-1a06f9cbb258",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "c947a16d-84ea-4975-a10c-427cf6a17119"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -68,6 +78,48 @@
             "resourceFilter": 1023,
             "value": "150",
             "varName": "intervalBetweenWaves",
+            "varType": 0
+        },
+        {
+            "id": "d72e88bd-a787-4a0f-9393-6ed8d125a4af",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "enemeyInWave",
+            "varType": 0
+        },
+        {
+            "id": "7abd3817-4d24-4e41-9cb6-3e29916f883d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "numberOfWave",
+            "varType": 0
+        },
+        {
+            "id": "745b7f40-d43e-46cc-9d4d-7888747a4386",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "150",
+            "varName": "bossInterval",
             "varType": 0
         }
     ],

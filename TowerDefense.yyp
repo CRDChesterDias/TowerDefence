@@ -42,7 +42,7 @@
             "Key": "02931d08-2e7d-46b4-9ee0-609b120e7442",
             "Value": {
                 "id": "bc5dcacd-c682-4b7d-a989-e8d2294ede66",
-                "resourcePath": "sprites\\spr_enemy_right\\spr_enemy_right.yy",
+                "resourcePath": "sprites\/spr_enemy_right\/spr_enemy_right.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -74,7 +74,7 @@
             "Key": "0f9eaa3f-20b2-49b1-9c6c-b109c8ce543b",
             "Value": {
                 "id": "e910119b-3897-4958-8028-f0f3be2a8ba0",
-                "resourcePath": "sprites\\spr_boss_enemy_rightWalk\\spr_boss_enemy_rightWalk.yy",
+                "resourcePath": "sprites\/spr_boss_enemy_rightWalk\/spr_boss_enemy_rightWalk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -98,7 +98,7 @@
             "Key": "10fe01ea-2705-423e-9d59-95234b2a4e18",
             "Value": {
                 "id": "2b58b183-f949-43cf-84f8-7bc194eb4b6c",
-                "resourcePath": "objects\\obj_boss_enemy_up\\obj_boss_enemy_up.yy",
+                "resourcePath": "objects\/obj_boss_enemy_up\/obj_boss_enemy_up.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -146,7 +146,7 @@
             "Key": "1c8301b6-74f2-4bf5-a66e-f1b0c7d1e0bc",
             "Value": {
                 "id": "d6628091-7b2a-46d4-b762-d768db8d84fd",
-                "resourcePath": "objects\\obj_dead_boss_enemy\\obj_dead_boss_enemy.yy",
+                "resourcePath": "objects\/obj_dead_boss_enemy\/obj_dead_boss_enemy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -154,7 +154,7 @@
             "Key": "20ecf4a6-3d8f-4978-8094-77f34c112af8",
             "Value": {
                 "id": "21aefbc3-298d-4c6f-a39e-7996890cc84f",
-                "resourcePath": "sprites\\spr_boss_enemy_upWalk\\spr_boss_enemy_upWalk.yy",
+                "resourcePath": "sprites\/spr_boss_enemy_upWalk\/spr_boss_enemy_upWalk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -202,7 +202,7 @@
             "Key": "32106bff-43e1-496b-bdec-ff831f9906ce",
             "Value": {
                 "id": "ebb4aa4c-0afe-4a67-9ac1-016d0034f477",
-                "resourcePath": "objects\\obj_enemy_right\\obj_enemy_right.yy",
+                "resourcePath": "objects\/obj_enemy_right\/obj_enemy_right.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -282,7 +282,7 @@
             "Key": "3f30886e-c4cb-4a19-9217-c79eafa51ec1",
             "Value": {
                 "id": "be6a33d7-19da-498b-ae3b-94512b8b262a",
-                "resourcePath": "sprites\\spr_boss_enemy_leftWalk\\spr_boss_enemy_leftWalk.yy",
+                "resourcePath": "sprites\/spr_boss_enemy_leftWalk\/spr_boss_enemy_leftWalk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -298,7 +298,7 @@
             "Key": "42ae57d4-2a36-4ebf-9bfe-251f368ccb17",
             "Value": {
                 "id": "9462237e-6e34-43fd-a636-7d4e9ea1070d",
-                "resourcePath": "sprites\\spr_boss_enemy_downWalk\\spr_boss_enemy_downWalk.yy",
+                "resourcePath": "sprites\/spr_boss_enemy_downWalk\/spr_boss_enemy_downWalk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -386,7 +386,7 @@
             "Key": "5b875b0c-69fc-4d6d-bccd-fba71748edbb",
             "Value": {
                 "id": "5fdabb47-f001-40be-a266-b42fd0eddaf0",
-                "resourcePath": "objects\\obj_enemy_up\\obj_enemy_up.yy",
+                "resourcePath": "objects\/obj_enemy_up\/obj_enemy_up.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -410,7 +410,7 @@
             "Key": "67b8c267-26a5-4d6d-a907-4005dbab5f94",
             "Value": {
                 "id": "35ae59a2-93cf-4ee5-9b32-466c7da98b17",
-                "resourcePath": "objects\\obj_enemy_down\\obj_enemy_down.yy",
+                "resourcePath": "objects\/obj_enemy_down\/obj_enemy_down.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -527,6 +527,14 @@
             }
         },
         {
+            "Key": "8663010e-0ae3-4e25-920d-5f5da2274c5b",
+            "Value": {
+                "id": "6ec117e4-5fc5-4648-a9b8-bb38a7cbf911",
+                "resourcePath": "objects\/obj_level2_boss\/obj_level2_boss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "86c00503-941a-4199-9686-aef3c9f67331",
             "Value": {
                 "id": "71cbe50d-2504-4fda-a4a5-7b26fc5a55f6",
@@ -538,7 +546,7 @@
             "Key": "8aee05dd-a206-4e5b-9a36-caeb7455373a",
             "Value": {
                 "id": "be29c783-b80a-48b7-9528-9bcc7d564be3",
-                "resourcePath": "sprites\\spr_dead_boss_enemy\\spr_dead_boss_enemy.yy",
+                "resourcePath": "sprites\/spr_dead_boss_enemy\/spr_dead_boss_enemy.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -570,7 +578,7 @@
             "Key": "94d6d7a7-0865-4eb9-9c85-b1502cc6e9ab",
             "Value": {
                 "id": "c2efd8c6-5114-44ce-bf49-9653a6236e49",
-                "resourcePath": "objects\\obj_boss_enemy_right\\obj_boss_enemy_right.yy",
+                "resourcePath": "objects\/obj_boss_enemy_right\/obj_boss_enemy_right.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -610,7 +618,7 @@
             "Key": "9deb716e-9306-4142-98e1-a253a0f9e56c",
             "Value": {
                 "id": "fbc0f973-f366-4e92-8634-48ed5a5cf5cd",
-                "resourcePath": "sprites\\spr_enemy_up\\spr_enemy_up.yy",
+                "resourcePath": "sprites\/spr_enemy_up\/spr_enemy_up.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -674,7 +682,7 @@
             "Key": "af9e4d9d-8d5b-44c8-878f-0d033b95bcda",
             "Value": {
                 "id": "818a00e9-e6fc-441c-bc3f-b1ba4e4a6d86",
-                "resourcePath": "objects\\obj_boss_enemy_down\\obj_boss_enemy_down.yy",
+                "resourcePath": "objects\/obj_boss_enemy_down\/obj_boss_enemy_down.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -730,7 +738,7 @@
             "Key": "b6f54aa7-c2ed-4058-8136-941ea1cc2af6",
             "Value": {
                 "id": "43e6b4ac-fa07-48df-9f9e-6e20dc714ca7",
-                "resourcePath": "sprites\\spr_enemy_down\\spr_enemy_down.yy",
+                "resourcePath": "sprites\/spr_enemy_down\/spr_enemy_down.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -746,7 +754,7 @@
             "Key": "bd3fe23d-558b-41f0-a226-1e43f989caea",
             "Value": {
                 "id": "fcc8de15-09f2-4483-a23e-f0e3f404b105",
-                "resourcePath": "objects\\obj_base\\obj_base.yy",
+                "resourcePath": "objects\/obj_base\/obj_base.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -826,7 +834,7 @@
             "Key": "cd62a343-e9fd-4e6a-a4bf-38bde4ed7900",
             "Value": {
                 "id": "a72c4a7a-dd39-4bea-bb92-50afdf8b43e8",
-                "resourcePath": "scripts\\scr_level1_enemy_create\\scr_level1_enemy_create.yy",
+                "resourcePath": "scripts\/scr_level1_enemy_create\/scr_level1_enemy_create.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -890,7 +898,7 @@
             "Key": "ec62d250-a411-4daf-a783-30f187408f5d",
             "Value": {
                 "id": "2e3f8557-a5e1-41e6-8972-6d63bd942eac",
-                "resourcePath": "paths\\pt_level1_path1\\pt_level1_path1.yy",
+                "resourcePath": "paths\/pt_level1_path1\/pt_level1_path1.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -922,7 +930,7 @@
             "Key": "f6392121-95a0-4fa6-851c-9785b16b8ef6",
             "Value": {
                 "id": "c5e0a0b0-74d8-43a7-a5d2-54520b860ecd",
-                "resourcePath": "objects\\obj_boss_enemy_left\\obj_boss_enemy_left.yy",
+                "resourcePath": "objects\/obj_boss_enemy_left\/obj_boss_enemy_left.yy",
                 "resourceType": "GMObject"
             }
         },
