@@ -4,11 +4,12 @@
 if(obj_selected_weapon.selected_weapon != 0)
 {
 	//If a stone already exists, destroy the stone and add a new stone
-	//stone_at_tower = instance_place(x, y, obj_stone);
-	//if(stone_at_tower <> noone)
-	//{
-	//	instance_destroy(stone_at_tower);
-	//}
+	stone_at_tower = instance_place(x, y, obj_stone);
+	if(stone_at_tower <> noone)
+	{
+		instance_destroy(stone_at_tower);
+	}
+	
 	
 	switch(obj_selected_weapon.selected_weapon)
 	{
@@ -22,7 +23,7 @@ if(obj_selected_weapon.selected_weapon != 0)
 			break;
 		case 3:
 			instance_create_layer(x, y, "Instances", obj_stone3);
-			instance_create_layer(x+1, y+1, "Instances", obj_laser_controller);
+		//	instance_create_layer(x+1, y+1, "Instances", obj_laser_controller);
 			global.crystals = global.crystals - 75;
 			break;
 	}
