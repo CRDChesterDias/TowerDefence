@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "3566f594-ddbd-4a1c-a691-e49aaef23cf2",
+            "Value": {
+                "id": "310d386a-1d64-41ea-8b49-7cb7758de9ca",
+                "resourcePath": "sounds\\snd_gamewin_Fireworks_Finale\\snd_gamewin_Fireworks_Finale.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "35ab86f6-5601-426e-b522-80bd16765c40",
             "Value": {
                 "id": "028d3fc7-13e4-4925-9f7a-80230edb2ee5",
