@@ -5,6 +5,23 @@
     "name": "tl_level1_enemyWaves",
     "momentList": [
         {
+            "id": "241874de-7d37-4aec-8099-34b221fe53ac",
+            "modelName": "GMMoment",
+            "mvc": "1.0",
+            "name": "",
+            "evnt": {
+                "id": "629168e0-3096-4cd4-ba19-a653cb5c5917",
+                "modelName": "GMEvent",
+                "mvc": "1.0",
+                "IsDnD": false,
+                "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+                "enumb": 500,
+                "eventtype": 0,
+                "m_owner": "baf659ab-a14b-4cf1-a40f-8649c3d7ae95"
+            },
+            "moment": 500
+        },
+        {
             "id": "13b95aa0-889a-4546-ab6a-96d4913bc42e",
             "modelName": "GMMoment",
             "mvc": "1.0",
