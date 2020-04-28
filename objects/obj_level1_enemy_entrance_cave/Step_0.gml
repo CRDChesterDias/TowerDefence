@@ -1,3 +1,5 @@
+///@description Camera zoom
+
 if(camera_width < 1024)
 	camera_width += 5;
 else

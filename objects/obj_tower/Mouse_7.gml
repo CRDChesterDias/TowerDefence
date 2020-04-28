@@ -1,7 +1,15 @@
-//For placing selected stone from inventory into the tower
+///@description Placing Stones into towers
+// For placing selected stone from inventory into the tower
 
 if(obj_selected_weapon.selected_weapon != 0)
 {
+	//If a stone already exists, destroy the stone and add a new stone
+	//stone_at_tower = instance_place(x, y, obj_stone);
+	//if(stone_at_tower <> noone)
+	//{
+	//	instance_destroy(stone_at_tower);
+	//}
+	
 	switch(obj_selected_weapon.selected_weapon)
 	{
 		case 1:
@@ -17,7 +25,7 @@ if(obj_selected_weapon.selected_weapon != 0)
 			instance_create_layer(x+1, y+1, "Instances", obj_laser_controller);
 			global.crystals = global.crystals - 75;
 			break;
-	}	
+	}
 	obj_selected_weapon.selected_weapon = 0;
 	obj_selected_weapon.sprite_index = -1;
 }

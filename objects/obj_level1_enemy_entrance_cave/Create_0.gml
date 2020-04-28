@@ -1,3 +1,7 @@
+///@description Camera zoom
+// Added this code here because this object is initialized at the beginning
+// of level 1 and is empty without a use.
+
 camera_set_view_size(view_camera[0], 200, 200);
 camera_set_view_pos(view_camera[0], 0, 170);
 
