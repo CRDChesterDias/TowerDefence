@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description start screem text 
 // You can write your code in this editor
 
 draw_text_transformed(x, y, "Welcome to Tower Defence Game", 3, 3, image_angle);

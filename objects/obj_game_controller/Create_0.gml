@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Initialise the variable 
 // You can write your code in this editor
 global.scorePoints = 0;
 global.crystals = 0;

@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Select wepon
 // You can write your code in this editor
 show_debug_message(string(self.sprite_index));
 if(!is_disabled){

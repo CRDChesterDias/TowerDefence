@@ -1,4 +1,4 @@
-/// @description Select a path for boss 
+/// @description Select a random path for boss 
 // You can write your code in this editor
 var num = irandom_range(1,4)
 

@@ -1,19 +1,6 @@
-/// @Set direction
+/// @description Water stone reduction
 // You can write your code in this editor
 
-/*
-if(direction >= 305 || direction <= 45)
-{
-	sprite_index = spr_flyerr;
-	image_index = 0;
-}
-
-else
-{
-	sprite_index = spr_flyerl;
-	image_index = 0;
-}
-*/
 
 // Blue stone reduce speed 
 if(distance_to_object(obj_stone2) < 100){

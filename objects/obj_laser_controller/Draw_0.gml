@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Laser beam
 // You can write your code in this editor
 draw_line(x,y,xend,yend);
 

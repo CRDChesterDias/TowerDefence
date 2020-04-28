@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Game over draw
 // You can write your code in this editor
 var dis = global.scorePoints
 //draw_text(x,y, "test "+  + "test" )

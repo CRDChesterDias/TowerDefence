@@ -1,4 +1,4 @@
-/// @description Water stone
+/// @description Water stone to reduce speed
 // You can write your code in this editor
 if(distance_to_object(obj_stone2) < 100){
 	

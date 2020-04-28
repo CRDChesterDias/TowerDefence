@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Set sprite according to direction 
 // You can write your code in this editor
 if(direction >= 305 || direction <= 45)
 {

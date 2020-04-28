@@ -1,3 +1,5 @@
+/// @description reduce enemy healthand increase point
+
 if(other.enemy_hp > 0){
 	other.enemy_hp-= 2;
 	

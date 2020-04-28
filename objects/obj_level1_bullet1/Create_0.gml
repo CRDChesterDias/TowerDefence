@@ -1,4 +1,4 @@
-
+/// @description point direction of bullet 
 if(instance_exists(obj_level1_enemy1))
 {
 	inst = instance_nearest(x, y, obj_level1_enemy1);

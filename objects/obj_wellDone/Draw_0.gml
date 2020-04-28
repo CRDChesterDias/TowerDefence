@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Well done display with score 
 // You can write your code in this editor
 var dis = global.scorePoints
 //draw_text(x,y, "test "+  + "test" )

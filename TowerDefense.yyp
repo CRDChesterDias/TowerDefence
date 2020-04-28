@@ -103,14 +103,6 @@
             }
         },
         {
-            "Key": "10fe01ea-2705-423e-9d59-95234b2a4e18",
-            "Value": {
-                "id": "2b58b183-f949-43cf-84f8-7bc194eb4b6c",
-                "resourcePath": "objects\/obj_boss_enemy_up\/obj_boss_enemy_up.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "12f1e453-6374-4e7a-9273-45900c472e9c",
             "Value": {
                 "id": "3e468a6c-85ef-4a83-95f1-f917d5cf9533",
@@ -147,14 +139,6 @@
             "Value": {
                 "id": "012a4b92-64e7-48fd-9646-3ec15c769575",
                 "resourcePath": "objects\/obj_stone3\/obj_stone3.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "1c8301b6-74f2-4bf5-a66e-f1b0c7d1e0bc",
-            "Value": {
-                "id": "d6628091-7b2a-46d4-b762-d768db8d84fd",
-                "resourcePath": "objects\/obj_dead_boss_enemy\/obj_dead_boss_enemy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -204,14 +188,6 @@
                 "id": "f253b6a7-d5cc-454f-8887-8cd0e24f205d",
                 "resourcePath": "sprites\/spr_crystal\/spr_crystal.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "32106bff-43e1-496b-bdec-ff831f9906ce",
-            "Value": {
-                "id": "ebb4aa4c-0afe-4a67-9ac1-016d0034f477",
-                "resourcePath": "objects\/obj_enemy_right\/obj_enemy_right.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -431,14 +407,6 @@
             }
         },
         {
-            "Key": "5b875b0c-69fc-4d6d-bccd-fba71748edbb",
-            "Value": {
-                "id": "5fdabb47-f001-40be-a266-b42fd0eddaf0",
-                "resourcePath": "objects\/obj_enemy_up\/obj_enemy_up.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "5f8b9a2a-de1d-4b0c-9ea1-e230731ea436",
             "Value": {
                 "id": "8123e61b-ffd4-4db4-96dc-47c6cdd8eaa3",
@@ -459,14 +427,6 @@
             "Value": {
                 "id": "b39e1dd0-cc18-4c62-850c-8d7168fe94b7",
                 "resourcePath": "objects\/obj_gameOver\/obj_gameOver.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "67b8c267-26a5-4d6d-a907-4005dbab5f94",
-            "Value": {
-                "id": "35ae59a2-93cf-4ee5-9b32-466c7da98b17",
-                "resourcePath": "objects\/obj_enemy_down\/obj_enemy_down.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -639,14 +599,6 @@
             }
         },
         {
-            "Key": "94d6d7a7-0865-4eb9-9c85-b1502cc6e9ab",
-            "Value": {
-                "id": "c2efd8c6-5114-44ce-bf49-9653a6236e49",
-                "resourcePath": "objects\/obj_boss_enemy_right\/obj_boss_enemy_right.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "950a96a7-ef1f-43c8-a815-597729e2f1b9",
             "Value": {
                 "id": "35dd154f-c1c0-4a00-8a5b-ce738d121405",
@@ -764,14 +716,6 @@
                 "id": "319cf2e6-a5c3-41c4-8e3b-6b37fdc9664a",
                 "resourcePath": "scripts\/scr_level1_start_dialogues\/scr_level1_start_dialogues.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "af9e4d9d-8d5b-44c8-878f-0d033b95bcda",
-            "Value": {
-                "id": "818a00e9-e6fc-441c-bc3f-b1ba4e4a6d86",
-                "resourcePath": "objects\/obj_boss_enemy_down\/obj_boss_enemy_down.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1052,14 +996,6 @@
                 "id": "e382147f-f3d7-4cb4-8d65-393c7650eb85",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f6392121-95a0-4fa6-851c-9785b16b8ef6",
-            "Value": {
-                "id": "c5e0a0b0-74d8-43a7-a5d2-54520b860ecd",
-                "resourcePath": "objects\/obj_boss_enemy_left\/obj_boss_enemy_left.yy",
-                "resourceType": "GMObject"
             }
         },
         {

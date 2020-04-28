@@ -1,4 +1,4 @@
-/// @description Cheatcode
+/// @description Cheatcode full health and last room 
 // You can write your code in this editor
 
 if keyboard_check(vk_left)

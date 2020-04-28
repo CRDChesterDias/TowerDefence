@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description red stone effects 
 // You can write your code in this editor
 
 if(enemey_health > 0){

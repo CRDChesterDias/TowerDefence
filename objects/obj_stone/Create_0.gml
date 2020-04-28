@@ -1,4 +1,4 @@
-
+/// @description fire stone code
 if(instance_exists(obj_level2_enemy2) || instance_exists(obj_level1_enemy1))
 {
 	if(distance_to_object(obj_level1_enemy1) <= range)

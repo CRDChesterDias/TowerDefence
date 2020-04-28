@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Initialise points 
 // You can write your code in this editor
 
 xend=0;

@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Laser beam code
 // You can write your code in this editor
 inst = instance_nearest(x, y, obj_level1_enemy1);
 if(distance_to_object(inst)<100){
