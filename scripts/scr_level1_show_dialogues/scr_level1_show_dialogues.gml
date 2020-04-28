@@ -1,0 +1,1 @@
+draw_text(10, 10 + sin(frame / 0.7) * 3, argument0);

@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "3f1e010a-24ac-4836-bb3b-53446f95997f",
+            "Value": {
+                "id": "07dbaeab-bc2d-4480-83de-3c00a8d99930",
+                "resourcePath": "scripts\\scr_level1_show_dialogues\\scr_level1_show_dialogues.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3f30886e-c4cb-4a19-9217-c79eafa51ec1",
             "Value": {
                 "id": "be6a33d7-19da-498b-ae3b-94512b8b262a",
@@ -575,6 +583,14 @@
             }
         },
         {
+            "Key": "87b8eb09-31a9-45a2-bb62-6d9fa46dfb05",
+            "Value": {
+                "id": "65a66e29-fb9c-4f88-b3aa-961fc88d8cf9",
+                "resourcePath": "objects\\obj_dialogue_controller\\obj_dialogue_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8aee05dd-a206-4e5b-9a36-caeb7455373a",
             "Value": {
                 "id": "be29c783-b80a-48b7-9528-9bcc7d564be3",
@@ -719,6 +735,14 @@
             }
         },
         {
+            "Key": "af103df1-f22d-474f-ba6e-527a2ca7ddd1",
+            "Value": {
+                "id": "319cf2e6-a5c3-41c4-8e3b-6b37fdc9664a",
+                "resourcePath": "scripts\\scr_level1_start_dialogues\\scr_level1_start_dialogues.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "af9e4d9d-8d5b-44c8-878f-0d033b95bcda",
             "Value": {
                 "id": "818a00e9-e6fc-441c-bc3f-b1ba4e4a6d86",
@@ -839,6 +863,14 @@
             }
         },
         {
+            "Key": "c55329eb-99b2-44c9-8f3c-6e4d5f7d08b7",
+            "Value": {
+                "id": "ea969f14-37e4-4511-9256-015ddf385012",
+                "resourcePath": "scripts\\scr_level1_add_dialogues\\scr_level1_add_dialogues.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c5a9c523-988b-4db4-8083-0153e9983084",
             "Value": {
                 "id": "54a39aa6-4544-4fc6-9aa7-60e3281335bc",
@@ -935,6 +967,14 @@
             }
         },
         {
+            "Key": "eaafccbc-9778-4db1-b857-2c260cd7b336",
+            "Value": {
+                "id": "0762ebc2-0069-4e41-a23e-3184608b09ff",
+                "resourcePath": "sprites\\spr_dialogueBox\\spr_dialogueBox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "eb1bf536-531b-4353-bad4-81a660c014b1",
             "Value": {
                 "id": "de7170f7-3deb-4cb7-b369-bec36081e816",
@@ -1007,6 +1047,14 @@
             }
         },
         {
+            "Key": "fe06fad2-160e-49f5-a0df-9efbf3861950",
+            "Value": {
+                "id": "64c1002c-a0e8-42b2-b7e4-0eaaeadfc1ea",
+                "resourcePath": "scripts\\scr_level1_get_dialogues\\scr_level1_get_dialogues.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fe4a0974-fee9-41d7-96c1-e88aa031b558",
             "Value": {
                 "id": "ca99506e-d9c1-44bc-a9a8-5e719c9c4e54",
@@ -1024,7 +1072,11 @@
         }
     ],
     "script_order": [
-        "cd62a343-e9fd-4e6a-a4bf-38bde4ed7900"
+        "cd62a343-e9fd-4e6a-a4bf-38bde4ed7900",
+        "c55329eb-99b2-44c9-8f3c-6e4d5f7d08b7",
+        "af103df1-f22d-474f-ba6e-527a2ca7ddd1",
+        "fe06fad2-160e-49f5-a0df-9efbf3861950",
+        "3f1e010a-24ac-4836-bb3b-53446f95997f"
     ],
     "tutorial": ""
 }
