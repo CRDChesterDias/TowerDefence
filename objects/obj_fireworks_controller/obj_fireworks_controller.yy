@@ -1,48 +1,28 @@
 {
-    "id": "dce171cf-095c-4f9c-8224-fdb87ccb61fb",
+    "id": "56feb314-bcd1-4cb7-9259-2fc8e5efa840",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_game_controller",
+    "name": "obj_fireworks_controller",
     "eventList": [
         {
-            "id": "05001063-7ffa-4c60-9620-adaed137ff3f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "dce171cf-095c-4f9c-8224-fdb87ccb61fb"
-        },
-        {
-            "id": "0b58319a-f2f1-4da8-86a5-2a6a369e034a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "dce171cf-095c-4f9c-8224-fdb87ccb61fb"
-        },
-        {
-            "id": "bc21fc95-1410-486f-ac5a-02bffa210340",
+            "id": "2572df09-d3d3-49c6-85a7-650cd4be872b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "dce171cf-095c-4f9c-8224-fdb87ccb61fb"
+            "m_owner": "56feb314-bcd1-4cb7-9259-2fc8e5efa840"
         },
         {
-            "id": "c0fd2d20-1f8f-446b-a48d-edf7cc1e3f13",
+            "id": "6f955f5d-3a21-46bf-80d6-57e15ac693e5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 17,
-            "eventtype": 5,
-            "m_owner": "dce171cf-095c-4f9c-8224-fdb87ccb61fb"
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "56feb314-bcd1-4cb7-9259-2fc8e5efa840"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
