@@ -33,6 +33,16 @@
             "enumb": 1,
             "eventtype": 2,
             "m_owner": "c947a16d-84ea-4975-a10c-427cf6a17119"
+        },
+        {
+            "id": "cd56fc3b-542d-42aa-887d-594c9f6a45bb",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 2,
+            "m_owner": "c947a16d-84ea-4975-a10c-427cf6a17119"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -76,7 +86,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "150",
+            "value": "700",
             "varName": "intervalBetweenWaves",
             "varType": 0
         },
@@ -90,7 +100,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "3",
+            "value": "5",
             "varName": "enemeyInWave",
             "varType": 0
         },
@@ -104,7 +114,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "2",
+            "value": "8",
             "varName": "numberOfWave",
             "varType": 0
         },
@@ -118,7 +128,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "150",
+            "value": "300",
             "varName": "bossInterval",
             "varType": 0
         }

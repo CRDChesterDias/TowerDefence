@@ -22,3 +22,26 @@ else{
 	yend = y;
 	length=0;
 }
+
+inst = instance_nearest(x, y, obj_level2_enemy2);
+if(distance_to_object(inst)<100){
+	direction = point_direction(x,y,inst.x,inst.y);
+	for(i = 0; i<200;i++){
+		xend = x+ lengthdir_x(i,direction);
+		yend = y+ lengthdir_y(i,direction);
+		length = i;	
+		}
+	    if(inst.enemey_health > 0)
+			inst.enemey_health-= 0.1;
+
+		if(inst.enemey_health <= 0)
+		{
+			with(inst) instance_destroy();
+			global.scorePoints = global.scorePoints + 1;
+		}
+  }
+else{
+	xend = x;
+	yend = y;
+	length=0;
+}

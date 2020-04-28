@@ -33,6 +33,16 @@
             "enumb": 2,
             "eventtype": 3,
             "m_owner": "ed4d62db-4243-4b65-9896-0c352967cd53"
+        },
+        {
+            "id": "ae7aa5bc-badb-4967-a46f-0b7fc363ee6b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "ed4d62db-4243-4b65-9896-0c352967cd53"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -120,6 +130,20 @@
             "resourceFilter": 1023,
             "value": "10",
             "varName": "enemy_max_hp",
+            "varType": 0
+        },
+        {
+            "id": "f98d03dd-8b96-49f5-ab36-e30f731aeec8",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0.5",
+            "varName": "water_reduce_speed",
             "varType": 0
         }
     ],

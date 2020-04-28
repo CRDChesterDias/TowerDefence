@@ -82,7 +82,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "5",
+            "value": "3",
             "varName": "Speed_enemy",
             "varType": 0
         },
@@ -138,7 +138,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "10",
+            "value": "14",
             "varName": "max_health",
             "varType": 0
         }
