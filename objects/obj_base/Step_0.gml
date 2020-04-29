@@ -1,5 +1,5 @@
-/// @description  end game and next level logic 
-if(global.basehealth < 70)
+/// @description  end game and logic to shift levels
+if(global.basehealth <= 0)
 {
 	room_goto(rm_gameOver);
 }

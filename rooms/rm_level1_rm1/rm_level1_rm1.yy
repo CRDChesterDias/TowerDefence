@@ -257,14 +257,14 @@
         },
         {
             "__type": "GMRPathLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Path_level1_rm1",
-            "id": "67742e1d-3ec4-4dc7-b86c-c319b0c09377",
+            "name": "Path_level1_rm1_new",
+            "id": "e132c684-9286-4eb0-86fa-fe2b295a469c",
             "colour": { "Value": 4278190335 },
             "depth": 800,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
-            "hierarchyVisible": false,
+            "hierarchyVisible": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -275,10 +275,10 @@
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
             "modelName": "GMRPathLayer",
-            "pathId": "7d23cfe4-5408-4ea8-a002-f6a1d2f9047c",
+            "pathId": "ec62d250-a411-4daf-a783-30f187408f5d",
             "mvc": "1.0",
             "userdefined_depth": false,
-            "visible": false
+            "visible": true
         },
         {
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
