@@ -13,7 +13,10 @@
         "8aee05dd-a206-4e5b-9a36-caeb7455373a",
         "02931d08-2e7d-46b4-9ee0-609b120e7442",
         "9deb716e-9306-4142-98e1-a253a0f9e56c",
-        "b6f54aa7-c2ed-4058-8136-941ea1cc2af6"
+        "b6f54aa7-c2ed-4058-8136-941ea1cc2af6",
+        "b69210df-40b1-421f-a59f-59dd94b9f430",
+        "0708c766-5d54-46cc-89ff-6e9379cb8046",
+        "a03dfe3a-2fe5-42d4-8eff-f6db3aadd33e"
     ],
     "filterType": "GMSprite",
     "folderName": "spr_enemies",
