@@ -71,18 +71,18 @@
             }
         },
         {
-            "Key": "0901269f-24e6-4fdb-b0fa-eb8580b7650e",
-            "Value": {
-                "id": "1af13e64-40ef-4b52-88c3-8c93c057d3fc",
-                "resourcePath": "objects\/obj_startScreen\/obj_startScreen.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "0a966769-3c55-4d68-bef5-7b55133bafbd",
             "Value": {
                 "id": "949229e1-0848-463c-abbc-d70d8caca66a",
                 "resourcePath": "sprites\/spr_elemental_shooter_grey\/spr_elemental_shooter_grey.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0b642bee-fe3e-4b7c-8e24-5de3ffc5e1b9",
+            "Value": {
+                "id": "09e8281b-0e98-47b7-b3ee-269706b90f1f",
+                "resourcePath": "sprites\\spr_title_screen\\spr_title_screen.yy",
                 "resourceType": "GMSprite"
             }
         },
