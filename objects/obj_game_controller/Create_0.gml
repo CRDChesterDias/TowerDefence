@@ -1,6 +1,11 @@
 /// @description Initialise the variable 
 // You can write your code in this editor
-global.scorePoints = 0;
+
+if(room==rm_level2_rm1){
+	global.scorePoints = global.level_two_carry_forward_score;
+}else{
+	global.scorePoints = 0;
+}
 global.crystals = 0;
 global.basehealth = 100;
 global.dialog_sequence = 0;

@@ -4,6 +4,6 @@
 alarm[2]= intervalBetweenWaves
 global.numberOfEnemyInWave_lvl2 = enemeyInWave
 global.numberOfWavs_lvl2 = numberOfWave
-global.tempScore = 0
+//global.scorePoints = global.level_two_carry_forward_score
 
 
