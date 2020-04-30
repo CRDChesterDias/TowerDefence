@@ -9,3 +9,9 @@ shader_reset();
 }
 
 //draw_self();
+
+// shows the range of the stone
+if(position_meeting(mouse_x, mouse_y, self))
+{
+	draw_circle(x, y, range, c_white);
+}
