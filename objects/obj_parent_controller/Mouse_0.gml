@@ -1,21 +1,20 @@
 /// @description Select wepon
-// You can write your code in this editor
-show_debug_message(string(self.sprite_index));
+//Logic for inventory item selection with sprite scaling corrections
 if(!is_disabled){
 	switch(self.sprite_index){
-		case 23:
+		case spr_elemental_shooter:
 				obj_selected_weapon.sprite_index = self.sprite_index;
 				obj_selected_weapon.selected_weapon = 1;
 				obj_selected_weapon.image_xscale = 1.4;
 				obj_selected_weapon.image_yscale = 1.3;
 				break;
-		case 25:
+		case spr_elemental_tower:
 				obj_selected_weapon.sprite_index = self.sprite_index;
 				obj_selected_weapon.selected_weapon = 2;
 				obj_selected_weapon.image_xscale = 0.4;
 				obj_selected_weapon.image_yscale = 0.5;
 				break;
-		case 24:
+		case spr_elemental_laser:
 				obj_selected_weapon.sprite_index = self.sprite_index;
 				obj_selected_weapon.selected_weapon = 3;
 				obj_selected_weapon.image_xscale = 0.4;

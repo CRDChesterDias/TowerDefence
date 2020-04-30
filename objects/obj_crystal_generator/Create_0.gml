@@ -3,3 +3,4 @@
 global.crystals = 0;
 
 alarm_set(0,15);
+i=0;

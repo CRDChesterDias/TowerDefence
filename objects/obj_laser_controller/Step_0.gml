@@ -1,5 +1,6 @@
 /// @description Laser beam code
-// You can write your code in this editor
+
+// Code for level 1 laser implementation
 inst = instance_nearest(x, y, obj_level1_enemy1);
 if(distance_to_object(inst)<100){
 	direction = point_direction(x,y,inst.x,inst.y);
@@ -24,6 +25,7 @@ else{
 	yend = y;
 	length=0;
 }
+//Code for level 2 implementation
 if(room==rm_level2_rm1){
 inst = instance_nearest(x, y, obj_level2_enemy2);
 if(distance_to_object(inst)<100){
