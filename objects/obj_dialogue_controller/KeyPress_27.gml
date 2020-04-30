@@ -12,4 +12,6 @@ instance_activate_object(obj_enemyWaveSpawner);
 
 //scr_clear();
 // Destroy the instance.
+instance_create_depth(x,y,1000,obj_crystal_generator)
 instance_destroy(self);
+
