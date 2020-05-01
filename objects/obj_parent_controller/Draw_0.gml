@@ -14,3 +14,14 @@ if(os_type == os_macosx){
 	is_disabled=false;
 	}
 }
+else
+{
+	if(global.crystals<threshold){
+		draw_self();
+		is_disabled=true;
+	}
+	else{
+		draw_self();
+		is_disabled=false;
+	}
+}

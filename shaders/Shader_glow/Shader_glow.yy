@@ -3,5 +3,5 @@
     "modelName": "GMShader",
     "mvc": "1.0",
     "name": "Shader_glow",
-    "type": 1
+    "type": 2
 }

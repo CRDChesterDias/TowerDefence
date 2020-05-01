@@ -1,0 +1,95 @@
+﻿Tower Defence: In The Wild
+ 
+This file contains useful information about the game and cheat codes.  
+________________
+
+ CONTENTS: 
+1)  LICENSING INFORMATION
+2)  SYSTEM REQUIREMENTS    
+3)  INSTALLATION    
+4)  GAME CONTROLS  
+5)  CHEAT CODE     
+6)  KNOWN ISSUES   
+________________
+
+1) Licensing Information:  
+
+Art:
+* Level1 enemy1: opengameart.org
+* Castle:opengameart.org
+* Crystal: opengameart.org
+
+Tilesets:
+* 2d lost Garden tileset transition to Jetrel's Wood tileset
+	https://opengameart.org/content/2d-lost-garden-tileset-transition-to-jetrels-wood-tileset
+        Author: 
+        Jetrel, Daniel Cook, Zabin
+        (Submitted by Zabin)
+        License(s):
+        CC-BY-SA 3.0
+
+
+* 2d Lost Garden Zelda style tiles resized to 32x32 with additions
+        https://opengameart.org/content/2d-lost-garden-zelda-style-tiles-resized-to-32x32-with-additions
+	Author: 
+        Daniel Cook, Jetrel, Saphy (TMW), Zabin, Bertram
+        (Submitted by Zabin)
+        License(s):
+        CC-BY 3.0
+ 
+Sounds:
+Background Themes:
+* Awkward meeting
+* The Complex
+* Failing Defense
+* Lightless Dawn
+
+Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+https://incompetech.com/music/royalty-free/music.html
+
+Sound Effects:
+* Fireworks Finale
+  http://soundbible.com/693-Fireworks-Finale.html
+  Recorded by Stephan
+  License: Public Domain
+
+* Weapon Blow
+  https://opengameart.org/content/weapon-blow
+  CC-BY 3.0
+
+* Electricity
+  http://soundbible.com/1107-Electricity.html
+  Recorded by Mike Koenig
+  License: Attribution 3.0
+
+* Metal_Gong-Dianakc
+  http://soundbible.com/2062-Metal-Gong-1.html
+  Recorded by Dianakc
+  License: Attribution 3.0
+
+All the remaining artifacts of this game need the permission of the creators before any kind of replication, use, transmission, modification, or adaptation. 
+ 
+ 2) SYSTEM REQUIREMENTS: 
+    Supported Operating Systems are 
+    -Mac  
+    -Windows 10 
+ 
+ 3) INSTALLATION:
+    An exe file can be run to play this game. 
+
+ 4) GAME CONTROLS: 
+    Below listed controls should be used to play this game. 
+    - Left Mouse Button click on the “Elements” on the inventory followed by a Left Mouse Button click inside a tower to place the corresponding stone in that tower.
+    - To replace a stone with another stone, click on the required "Elemental" in the inventory and click on the tower whose stone needs to be replaced. The existing stone will be replaced with the new stone.
+
+ 5) CHEAT CODE: 
+    Below listed cheat codes can be used to jump to the next point in the game. 
+    1. Escape button - To terminate the narration through dialogues. 
+    2. Alt + Q - To jump to the level2.
+    3. Ctrl + Space - Go to game victory room
+    4. Ctrl + Left Arrow Key - Make basehealth to 1000
+ 
+ 6) KNOWN ISSUES: -
+    Shaders are not working on the Windows operating system.

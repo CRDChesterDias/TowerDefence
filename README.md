@@ -27,11 +27,11 @@ Below listed cheat codes can be used to jump to the next point in the game.
   Timelines,alarms - Enemy spawning
   Shaders - Converting tower circles to balls, greying out the inventory when low on crystals
   Inheritance - Tower stones, Inventory Panel
-  Artwork - inventory, scorebar, enemies(Snehal, AJ); inventory, laser, fireworks bullets(Chester); 
-  Views - on level1 start the camera view is zoomed out
+  Artwork - inventory, scorebar, enemies, inventory, laser, fireworks bullets, title screen
+  Views - on the beginning of level1, the camera view is zoomed out
 
 # Additional implementation
-  Conditional check for mac os to enable disable shaders
+  Conditional check for mac os to enable, disable shaders
   Fireworks on game end can be seen with control+space
   Randomising the enemy path selection seen in level 2
   Laser weapon implementation
