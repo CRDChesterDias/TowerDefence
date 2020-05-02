@@ -1,5 +1,6 @@
 /// @description Select wepon
 //Logic for inventory item selection with sprite scaling corrections
+show_debug_message(string(self.sprite_index));
 if(!is_disabled){
 	switch(self.sprite_index){
 		case spr_elemental_shooter:
